@@ -1,0 +1,22 @@
+{
+  "name": "facebook-graph-api-experiment",
+  "version": "1.0.0",
+  "description": "a Facebook Graph API Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/light-bringer/facebook-graph-api-experiment.git"
+  },
+  "keywords": [
+    "facebook"
+  ],
+  "author": "Debapriya Das <yodebu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/light-bringer/facebook-graph-api-experiment/issues"
+  },
+  "homepage": "https://github.com/light-bringer/facebook-graph-api-experiment#readme"
+}
