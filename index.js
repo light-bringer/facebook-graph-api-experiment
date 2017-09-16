@@ -13,5 +13,6 @@ app.get('/', (req, res)=>{
 
 app.post('/', (req, res)=> {
   console.log("POST here")
-  res.send("bar")
+  console.log(req.param)
+  res.send(req.param['hub.mode'])
 })
