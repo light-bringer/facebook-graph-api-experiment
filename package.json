@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/light-bringer/facebook-graph-api-experiment/issues"
   },
-  "homepage": "https://github.com/light-bringer/facebook-graph-api-experiment#readme"
+  "homepage": "https://github.com/light-bringer/facebook-graph-api-experiment#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "express-x-hub": "^1.0.4"
+  }
 }
